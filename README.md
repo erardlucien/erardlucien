@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @erardlucien
 - 👀 I’m interested in web-development.
 - 🌱 I’m currently learning Javascript.
-- 📫 How to reach me erardlaurent1@gmail.com
 
 <!---
 erardlucien/erardlucien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
