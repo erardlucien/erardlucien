@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning Java and Python.
 - 🤔 I’m looking for a part time job as a programmer, which i can do after 22 O'clock ...
 - 📫 How to reach me: lucienerard@proton.me
