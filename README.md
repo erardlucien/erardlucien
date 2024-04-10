@@ -6,6 +6,5 @@
 - ⚡ Fun fact: I like to read, to sing, to draw and programming.
 - I have a little background with programming language c , javascript, and language such as CSS3 and HTML.
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<figure><embed src="https://wakatime.com/share/@018ec705-88fe-4d31-8d20-2f5897d003bd/c4489fc0-ce96-44e2-956f-fa57205e70d0.svg"></embed></figure>
  
