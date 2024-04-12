@@ -5,3 +5,5 @@
 - 📫 How to reach me: lucienerard@proton.me
 - ⚡ Fun fact: I like to read, to sing, to draw and programming.
 - I have a little background with programming language c , javascript, and language such as CSS3 and HTML.
+
+  [![Wakatime Stats]](https://wakatime.com/@erardlucien)
