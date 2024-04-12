@@ -6,4 +6,4 @@
 - ⚡ Fun fact: I like to read, to sing, to draw and programming.
 - I have a little background with programming language c , javascript, and language such as CSS3 and HTML.
 
-  [![Wakatime Stats]](https://wakatime.com/@erardlucien)
+  [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=erardlucien&theme=dark&hide=properties,yaml,text,jshell,batchfile,json,git+config,gitignore+file,IDEA_MODULE,CLASS,CSV,PHP&langs_count=15)](https://wakatime.com/@erardlucien)
