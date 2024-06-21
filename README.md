@@ -1,6 +1,5 @@
 ### Hi, I'm Lucien👋
 
-- 🌱 I’m currently learning dart and kotlin.
 - 🤔 I’m looking for a part time job as a programmer.
 - 📫 How to reach me: lucienerard@proton.me
 
