@@ -10,7 +10,7 @@ I like to write code for various programming languages.
 I have some experience with C, JavaScript, HTML and CSS.
 
 ### Actually learning
-I am currently learning Java, Rust, python, Oracle SQL, Dart, Scala, sqlite3, C#, Zig. I am also learning frameworks (Vue.js, Flet, React.js, tauri) and libaries(matplotlib, numpy, sympy, scipy). 
+I am currently learning Java, Rust, python, Oracle SQL, Dart, Scala, sqlite3, C#, Zig. I am also learning frameworks (Vue.js, Flet, React.js, tauri) and libaries (matplotlib, numpy, sympy, scipy). 
 
 ### Interest
 I am interested in Hardware programming and Software programming.
