@@ -18,7 +18,7 @@ I am interested in Hardware programming and Software programming.
 ### Plan for the future
 I am also planning to learn how to program a AI-System.
 
-### Softskills
+### Soft skills 
 I can work in team and also independently.
 I always take my work seriously. I read a lot about programming and also exercise myself about it.
 
