@@ -14,22 +14,43 @@ I like to write code for various programming languages.
 - HTML(Markup language)
 - CSS(Style sheet language)
 
-
 ### Actually learning
-I am currently learning Java, Rust, python, Oracle SQL, Dart, Scala, sqlite3, C#, Zig. I am also learning frameworks (Vue.js, Flet, React.js, tauri) and libaries (matplotlib, numpy, sympy, scipy). 
+
+## Programming languages
+- Java
+- Rust
+- python
+- Oracle SQL
+- Dart
+- Scala
+- sqlite3
+- C#
+- Zig
+
+## Frameworks
+- Vue.js
+- Flet
+- React.js
+- Tauri
+
+## Libaries
+- matplotlib
+- numpy
+- sympy
+- scipy
 
 ### Interest
-I am interested in Hardware programming and Software programming.
+- Hardware programming
+- Software programming
 
 ### Plan for the future
-I am also planning to learn how to program a AI-System.
+- learn how to program a AI-System.
 
 ### Soft skills 
-I can work in team and also independently.
-I always take my work seriously. I read a lot about programming and also exercise myself about it.
-
-### Personality
-I like to have a deep understanding of which language ich use. I have nothing against failures, because it help me to improve my skills and have a deep understanding of what i learn.
+- I can work in team and also independently.
+- I always take my work seriously. I read a lot about programming and also exercise myself about it.
+- I like to have a deep understanding of which language ich use.
+- I have nothing against failures, because it help me to improve my skills and have a deep understanding of what i learn.
 
 ### Contacts
 If i catch your interest, feel free to contact me at: lucienerard@proton.me.
