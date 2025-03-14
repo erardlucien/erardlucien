@@ -19,11 +19,11 @@ I like to write code for various programming languages.
 ## Programming languages
 - Java
 - Rust
-- python
+- Python
 - Oracle SQL
 - Dart
 - Scala
-- sqlite3
+- SQLite 3 
 - C#
 - Zig
 
