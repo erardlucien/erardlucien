@@ -16,7 +16,7 @@ I like to write code for various programming languages.
 
 ### Actually learning
 
-## Programming languages
+#### Programming languages
 - Java
 - Rust
 - Python
@@ -27,13 +27,13 @@ I like to write code for various programming languages.
 - C#
 - Zig
 
-## Frameworks
+#### Frameworks
 - Vue.js
 - Flet
 - React.js
 - Tauri
 
-## Libaries
+#### Libaries
 - matplotlib
 - numpy
 - sympy
