@@ -6,8 +6,14 @@ I like to write code for various programming languages.
 - German
 - English
   
-### Experiences in Programming languages
-I have some experience with C, JavaScript, HTML and CSS.
+### Programming languages
+- C
+- JavaScript
+
+### Other Computer languages
+- HTML(Markup language)
+- CSS(Style sheet language)
+
 
 ### Actually learning
 I am currently learning Java, Rust, python, Oracle SQL, Dart, Scala, sqlite3, C#, Zig. I am also learning frameworks (Vue.js, Flet, React.js, tauri) and libaries (matplotlib, numpy, sympy, scipy). 
