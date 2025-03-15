@@ -49,8 +49,7 @@ I like to write code for various programming languages.
 ### Soft skills 
 - I can work in team and also independently.
 - I always take my work seriously.
-- I like to have a deep understanding of which language ich use.
-- I have nothing against failures, because it help me to improve my skills and have a deep understanding of what i am doing.
+- I have nothing against failures, because it help me to improve my skills.
 
 ### Contacts
 If i catch your interest, feel free to contact me at: lucienerard@proton.me.
