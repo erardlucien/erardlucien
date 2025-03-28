@@ -26,6 +26,7 @@ I like to write code for various programming languages.
 - SQLite 3 
 - C#
 - Zig
+- Crystal
 
 ### Frameworks
 - Vue.js
