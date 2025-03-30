@@ -14,9 +14,7 @@ I like to write code for various programming languages.
 - HTML(Markup language)
 - CSS(Style sheet language)
 
-## Actually learning
-
-### Programming languages
+## Programming languages(actually learning)
 - Java
 - Rust
 - Python
@@ -28,13 +26,13 @@ I like to write code for various programming languages.
 - Zig
 - Crystal
 
-### Frameworks
-- Vue.js
+## Frameworks(actually learning)
+- Vue.js(Actually learning)
 - Flet
 - React.js
 - Tauri
 
-### Libaries
+## Libaries(actually learning)
 - matplotlib
 - numpy
 - sympy
