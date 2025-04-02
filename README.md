@@ -19,7 +19,6 @@ I like to write code for various programming languages.
 - Rust
 - Python
 - Oracle SQL
-- Dart
 - Scala
 - SQLite 3 
 - C#
@@ -28,7 +27,6 @@ I like to write code for various programming languages.
 
 ## Frameworks(actually learning)
 - Vue.js(Actually learning)
-- Flet
 - React.js
 - Tauri
 
