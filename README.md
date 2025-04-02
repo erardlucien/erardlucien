@@ -26,7 +26,7 @@ I like to write code for various programming languages.
 - Crystal
 
 ## Frameworks(actually learning)
-- Vue.js(Actually learning)
+- Vue.js
 - React.js
 - Tauri
 
