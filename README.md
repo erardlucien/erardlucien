@@ -51,3 +51,6 @@ I like to write code for various programming languages.
 ## Contacts
 If i catch your interest, feel free to contact me at: lucienerard@proton.me.
 I will gladly respond to others questions you may have.
+
+## Wakatime Statistics
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=erardlucien&theme=white&hide=properties,yaml,text,jshell,batchfile,json,git+config,gitignore+file,IDEA_MODULE,CLASS,CSV,PHP&langs_count=15)](https://wakatime.com/@erardlucien)
