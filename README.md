@@ -41,9 +41,9 @@ Below some importants details about me: 👇
 - Software programming
 
 ## Plan for the future
-- learn how to program a AI-System.
-- programming in Robotics
-- programming Health devices
+- learn how to program a AI-System
+- programming in Robotics 🤖
+- programming Health devices 🏥
 
 ## Soft skills 
 - I can work in team and also independently.
