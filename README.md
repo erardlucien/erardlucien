@@ -1,10 +1,10 @@
 # Hi, my name is Lucien Erard
-I like to write code for various programming languages.
+Below some importants details about me: 👇
 
 ## Natural languages
-- French
-- German
-- English
+- French(good)
+- German(good)
+- English(acceptable)
   
 ## Programming languages
 - C
@@ -42,6 +42,8 @@ I like to write code for various programming languages.
 
 ## Plan for the future
 - learn how to program a AI-System.
+- programming in Robotics
+- programming Health devices
 
 ## Soft skills 
 - I can work in team and also independently.
@@ -51,6 +53,3 @@ I like to write code for various programming languages.
 ## Contacts
 If i catch your interest, feel free to contact me at: lucienerard@proton.me.
 I will gladly respond to others questions you may have.
-
-## Wakatime Statistics
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=erardlucien&theme=white&hide=properties,yaml,text,jshell,batchfile,json,git+config,gitignore+file,IDEA_MODULE,CLASS,CSV,PHP&langs_count=15)](https://wakatime.com/@erardlucien)
