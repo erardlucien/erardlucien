@@ -4,6 +4,4 @@
 * Python
 * Java
 * Javascript
-## Interest
-* Embedded devices
-* Front-End
+!EOF
