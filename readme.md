@@ -4,4 +4,10 @@
 * Python
 * Java
 * Javascript
-
+## Languages
+* french
+* german
+* english
+## Interests
+* software programming
+* hardware programming
